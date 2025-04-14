@@ -1,1 +1,0 @@
-// Placeholder index.js file for Racing Sim

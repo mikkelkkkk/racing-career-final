@@ -1,1 +1,0 @@
-// Placeholder App.js file for Racing Sim
